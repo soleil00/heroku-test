@@ -1,5 +1,12 @@
 import { CatchingPokemon } from "@mui/icons-material";
-import { AppBar, IconButton, Toolbar, Typography } from "@mui/material";
+import {
+  AppBar,
+  IconButton,
+  Stack,
+  TextField,
+  Toolbar,
+  Typography,
+} from "@mui/material";
 
 function App() {
   return (
@@ -10,6 +17,9 @@ function App() {
         </IconButton>
 
         <Typography>soleilApp</Typography>
+        <Stack marginLeft={"auto"}>
+          <TextField size="small" color="secondary" label="Search product" />
+        </Stack>
       </Toolbar>
     </AppBar>
   );
