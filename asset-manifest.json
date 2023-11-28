@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react/static/js/main.72e18aac.js",
-    "index.html": "/react/index.html",
-    "main.72e18aac.js.map": "/react/static/js/main.72e18aac.js.map"
+    "main.js": "/heroku-test/static/js/main.72e18aac.js",
+    "index.html": "/heroku-test/index.html",
+    "main.72e18aac.js.map": "/heroku-test/static/js/main.72e18aac.js.map"
   },
   "entrypoints": [
     "static/js/main.72e18aac.js"
